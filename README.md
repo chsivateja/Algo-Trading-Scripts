@@ -7,3 +7,13 @@ All the scripts are hosted on aws and are all time active and tracking the marke
 
 I will make a different repo for all the live scanner I use, and TradingView indicators that i have develped for the ease in manual analysis.
 To check out telegaram bot code and kite connect snippets, view my other repo(s)
+
+I will soon update Baccktesting results of individual trategies.
+
+Live Trades are not yet synced but wull soon be synced to telegaram channel when backtesting is complete.
+
+Channel Id: @algobrainTrade
+
+Channel LInk: t.me/algobrainTrade
+
+TradingView ScriptsL https://in.tradingview.com/u/ronitjain/#published-scripts
