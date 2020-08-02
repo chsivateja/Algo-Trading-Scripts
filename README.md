@@ -6,7 +6,7 @@ telegram api to update my trades.
 All the scripts are hosted on aws and are all time active and tracking the market.
 
 I will make a different repo for all the live scanner I use, and TradingView indicators that i have developed for the ease in manual analysis.
-To check out telegaram bot code and kite connect snippets, view my other repo(s)
+To check out telegram bot code and kite connect snippets, view my other repo(s)
 
 I will soon update the Backtesting results of individual strategies.
 
