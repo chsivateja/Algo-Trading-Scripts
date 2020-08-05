@@ -21,7 +21,7 @@ exit_value = 0
 capital = 5000
 max_loss = capital*0.4/100
 
-api_k = "nq31y6ndsyyqwdbc"  # id
+api_k = "Enter your api key"  # id
 api_s = "Enter your secret key"  # pass
 
 blacklist = ['ADANIPOWER', 'MRF']
